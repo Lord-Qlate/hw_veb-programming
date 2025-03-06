@@ -1,5 +1,7 @@
 body {
     background-color: #fff4c1; 
+    font-family: Arial, sans-serif;
+    border-left: solid 100px #fff4c1 ;
     }
 .red_text{
     color: red;
