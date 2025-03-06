@@ -1,0 +1,27 @@
+body {
+    background-color: #928b6c; 
+    }
+.red_text{
+    color: red;
+    font-size:45px;
+}
+.list_settings{
+    color: #85b9f8c3;
+    font-size:20px; 
+}
+.green_text{
+    color:rgb(97, 234, 90);
+}
+.size_text{
+    font-size: 25px;
+
+}
+.button1{
+    background-color: #befbd4;
+}
+.input_color{
+    background-color: rgba(184, 248, 248, 0.792);
+}
+.sss{
+    background-color: #6e5937;
+}
