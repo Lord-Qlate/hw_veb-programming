@@ -14,12 +14,22 @@ h3{
     }
   
 .Title_item{
+    padding-left: 4px;
     width: 1800px;
     margin-left: 4px;
     border-radius:20px ;
-    background-color: #f3b809;
+    background-color: #fbad26;
     color: red;
     font-size:45px;
+}
+.Fst_contaner{
+margin-left: 20px;
+padding-left:5px ;
+
+
+}
+.img_style{
+    border-radius: 16px;
 }
 .list_settings{
     border-radius: 20px;
@@ -31,10 +41,10 @@ h3{
     color: #1104f9c3;
     font-size:20px; 
 }
-
     .list_settings::-webkit-scrollbar-track{
         display: none;
      }
+
 .green_text{
     color:rgb(97, 234, 90);
 }
@@ -48,11 +58,17 @@ h3{
 .input_color{
     background-color: rgba(184, 248, 248, 0.792);
 }
-.sss{
-    background-color: #6e5937;
-}
+
 .table_Style{
+    margin-left: 35%;
+    margin-bottom:20px ;
     color: #000000;
     font-size: 30px;
     font-weight: 500;
+}
+.resurs_src{
+    border-radius:10px   ;
+    padding: 5px;
+    margin: 0 !important;
+    background-color:#fbad26 ;
 }
