@@ -1,16 +1,40 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Onest:wght@100..900&display=swap');
+
+body{
+     font-family: "Montserrat" !important;
+    font-weight: 500; 
     background-color: #fff4c1; 
     font-family: Arial, sans-serif;
-    border-left: solid 100px #fff4c1 ;
+        margin:0;
+        padding:0;
+}
+h3{
+    margin:0;
+    padding:0;
     }
-.red_text{
+  
+.Title_item{
+    width: 1800px;
+    margin-left: 4px;
+    border-radius:20px ;
+    background-color: #f3b809;
     color: red;
     font-size:45px;
 }
 .list_settings{
+    border-radius: 20px;
+    background-color: #e35d0f;
+    overflow: scroll;
+    overflow-x:hidden;
+    width: fit-content; 
+    max-height: 200px;
     color: #1104f9c3;
     font-size:20px; 
 }
+
+    .list_settings::-webkit-scrollbar-track{
+        display: none;
+     }
 .green_text{
     color:rgb(97, 234, 90);
 }
