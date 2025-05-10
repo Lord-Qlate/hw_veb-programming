@@ -1,0 +1,57 @@
+.Bgc{
+    background-color: #e7e7e7;
+}
+.header{
+    margin-left: 550px;
+    display: block;
+    color:blue
+}
+.Btn_add{   
+    background-color: rgb(72, 72, 255);
+    color: #ffffff;
+}
+.Input_plase{
+
+    margin-left: 450px;
+}
+.Text_field{
+    background-color: #ffffff;
+    width: 400px;
+    border-radius: 20px ;
+    text-align: center;
+}
+.movie_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+  margin-top: 15px;  
+
+
+
+
+}
+.movie_list > div{
+    box-shadow:b ;
+    margin-left:50px;
+    display: flex;
+    align-items: center;
+    width: 490px;
+    margin-top: 15px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+.Btn_del{
+    margin-right:-20px ;
+}
+.Text_size{
+    width: 240px;
+    margin-left: 5px;
+}
+.Btn_settings{
+     margin-right:10px ;
+    background: url(https://cdn2.iconfinder.com/data/icons/flat-design-basic-set-6-1/24/gear-teeth-mechanic-1024.png) 50% 50% no-repeat;
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+}
